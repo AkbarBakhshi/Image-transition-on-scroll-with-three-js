@@ -1,0 +1,14 @@
+.threejs {
+    width: 100%;
+    height: 200vh;
+}
+
+.threejs__canvas__container {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
